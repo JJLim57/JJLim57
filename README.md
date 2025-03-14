@@ -2,9 +2,8 @@
 <p align="center" dir="auto">
   A little background about me. 
 </p>
-I am a computer science student from Taylor's University majoring in Artificial Intelligence with an extension in Data Science. I am fairly proficient and confident in machine learning and data science 📊 with some interest in deep learning due to its potential. <br>
+Here you will sometimes see some of the things i work on for fun and of course, my past assignments :D <br>
 <br>
-Here, my Github portfolio displays some of my personal work I did for my assignments. <br>
 
 ##
 - 📫 Reach me by my email - limjiajie22@gmail.com
